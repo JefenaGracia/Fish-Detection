@@ -271,8 +271,8 @@ public:
 
 int main(int argc, char *argv[])
 {
-    std::string  names_file = "data/coco.names";
-    std::string  cfg_file = "cfg/yolov3.cfg";
+    std::string  names_file = "data/obj.names";
+    std::string  cfg_file = "cfg/yolov3_custom2.cfg";
     std::string  weights_file = "yolov3.weights";
     std::string filename;
 
