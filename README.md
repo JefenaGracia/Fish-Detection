@@ -1,8 +1,8 @@
 # Fish Detection Model
 
-![Result Image](output/outcome1.png)
+![Result Image 1](output/outcome1.png)
 
-![Result Image](output/outcome2.jpeg)
+![Result Image 2](output/outcome2.jpeg)
 
 ![Result Video](output/output.mp4)
 
