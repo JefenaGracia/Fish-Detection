@@ -7,10 +7,10 @@
 [Download Weights](https://drive.google.com/file/d/1GCCkQTOOksVfCZ_ftlnO11HaJ-56tPZW/view?usp=sharing)
 
 ## Training dataset
-[Training]([https://drive.google.com/file/d/1GCCkQTOOksVfCZ_ftlnO11HaJ-56tPZW/view?usp=sharing](https://drive.google.com/file/d/1uxv3pGhuGWM33Iczg1TNcC1Nq0r8OCOw/view?usp=drive_link))
+[Training](https://drive.google.com/file/d/1rEFyMRQyWglOF_HmBTZR3VK8MMTKGUkK/view?usp=sharing)
 
 ## Testing Dataset
-[Testing]([https://drive.google.com/file/d/1GCCkQTOOksVfCZ_ftlnO11HaJ-56tPZW/view?usp=sharing](https://drive.google.com/file/d/1uxv3pGhuGWM33Iczg1TNcC1Nq0r8OCOw/view?usp=drive_link))
+[Testing](https://drive.google.com/file/d/1uxv3pGhuGWM33Iczg1TNcC1Nq0r8OCOw/view?usp=drive_link)
 
 ## Instructions
 1. Run all cells in the Google Colab notebook until the `assert false` statement.
