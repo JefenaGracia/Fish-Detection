@@ -1,10 +1,10 @@
 # Fish Detection Model
 
-![Result Image 1](output/outcome1.png)
+![Result Image 1](Output/outcome1.png)
 
-![Result Image 2](output/outcome2.jpeg)
+![Result Image 2](Output/outcome2.jpeg)
 
-![Result Video](output/output.mp4)
+![Result Video](Output/output.mp4)
 
 ## Google Colab Link
 [Google Colab](https://colab.research.google.com/drive/1_GiugnqFx1AccTyXkseOR2r27-BRtsR9?authuser=2#scrollTo=gxwdPy-eL6JW)
